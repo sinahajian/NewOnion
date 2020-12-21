@@ -13,9 +13,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hiva.InfraIoC", "Hiva.Infra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hiva.UI.Mvc", "Hiva.UI.Mvc", "{86030263-9FCB-43D9-B1E7-33846789ABA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hiva.Mvc", "Hiva.Mvc\Hiva.Mvc.csproj", "{6648AB77-0138-4A7C-A956-421E13487DAA}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6648AB77-0138-4A7C-A956-421E13487DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6648AB77-0138-4A7C-A956-421E13487DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6648AB77-0138-4A7C-A956-421E13487DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6648AB77-0138-4A7C-A956-421E13487DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6648AB77-0138-4A7C-A956-421E13487DAA} = {86030263-9FCB-43D9-B1E7-33846789ABA8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDF08648-2C4A-4DD6-BCAE-531EE922AA6A}
