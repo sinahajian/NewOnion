@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hiva.Application", "Hiva.Application", "{0D06ADB5-CEA9-4D42-823D-DBF3CFC97D4F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hiva.Domain", "Hiva.Domain", "{BEA72766-3862-4D33-9B88-40B724AFE6A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hiva.InfraData", "Hiva.InfraData", "{6FA93CF3-4E5D-44DD-988F-C92501EBF289}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hiva.InfraIoC", "Hiva.InfraIoC", "{7D32BCCC-DC2E-4252-B5E3-C0FA412CBBFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hiva.UI.Mvc", "Hiva.UI.Mvc", "{86030263-9FCB-43D9-B1E7-33846789ABA8}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDF08648-2C4A-4DD6-BCAE-531EE922AA6A}
+	EndGlobalSection
+EndGlobal
